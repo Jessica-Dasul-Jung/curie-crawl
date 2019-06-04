@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
+# contains the crawling script for hyundai department store clothings
+# yields name, component and clothing type of each respective clothes
 
 
 class TaxonomySpider(scrapy.Spider):
